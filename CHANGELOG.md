@@ -1,5 +1,12 @@
 # Raintree UI Core Library Changelog
 
+# [2.1.0](https://github.com/sidathasiri/semantic-release-poc/compare/v2.0.0...v2.1.0) (2024-09-19)
+
+
+### Features
+
+* minor release ([792d8dc](https://github.com/sidathasiri/semantic-release-poc/commit/792d8dc60d92d2e0581d4e107c82805ce6cf1829))
+
 # [2.0.0](https://github.com/sidathasiri/semantic-release-poc/compare/v1.2.0...v2.0.0) (2024-09-19)
 
 
